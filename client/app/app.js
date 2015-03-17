@@ -40,7 +40,8 @@ class Server {
   schedule() {
     this.timeout = setTimeout(() => {
       this.getDetails();
-    }, 10000)
+      // 10 minutes = 600000 ms
+    }, 600000)
   }
 }
 
