@@ -17,6 +17,7 @@
     "gulp-sourcemaps": "^1.5.0",
     "mongoose": "^3.8.24",
     "morgan": "^1.5.1",
+    "ping": "^0.1.9",
     "serve-favicon": "^2.2.0"
   },
   "author": "Jonathan Jennings",
